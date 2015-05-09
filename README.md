@@ -1,0 +1,2 @@
+# imageSlider
+Basic Image Slider
